@@ -1,0 +1,2 @@
+# temperaturacorregir
+Created with CodeSandbox
